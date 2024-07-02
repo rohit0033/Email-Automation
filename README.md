@@ -73,6 +73,4 @@ GOOGLE_CLIENT_ID, GOOGLE_CLIENT_SECRET, GOOGLE_REFRESH_TOKEN, GOOGLE_REDIRECT_UR
 2. **Shutting down the server:**
    The server will handle graceful shutdown on `SIGTERM`.
 
-## License
-This project is licensed under the MIT License.
 
